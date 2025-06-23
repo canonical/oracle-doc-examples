@@ -4,6 +4,7 @@ This repository contains code examples that correspond to the [Ubuntu on Oracle 
 
 ## Available Examples
 
+* [Deploy Ubuntu Nodes on OKE with CLI](./deploy-oke-using-ubuntu/cli/README.md)
 * [Deploy Ubuntu Nodes on OKE with Terraform](./deploy-oke-using-ubuntu/terraform/README.md)
 
 ## Code of Conduct
