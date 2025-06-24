@@ -51,6 +51,7 @@ ssh_private_key_path = "~/.ssh/id_rsa"
 
 # Optional
 public_nodes           = false
+architecture           = "amd64"
 add_managed_nodes      = false
 add_self_managed_nodes = false
 ```
