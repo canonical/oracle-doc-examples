@@ -1,6 +1,6 @@
 # Deploy Ubuntu Nodes on OKE with CLI
 
-This is a complete example based on the How-To [Deploy OKE nodes using Ubuntu images](https://canonical-oracle.readthedocs-hosted.com/oracle-how-to/deploy-oke-nodes-using-ubuntu-images/), demonstrating how to launch Ubuntu nodes on OKE using the `oci` CLI.
+This is a complete example based on the How-To [Deploy Ubuntu OKE nodes using CLI](https://canonical-oracle.readthedocs-hosted.com/oracle-how-to/deploy-ubuntu-oke-nodes-using-cli/), demonstrating how to launch Ubuntu nodes on OKE using the `oci` CLI.
 
 ## Prerequisites
 
